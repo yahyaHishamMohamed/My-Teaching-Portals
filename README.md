@@ -4,4 +4,4 @@ Welcome to my academic teaching hub. Below are the active Google Classroom porta
 
 | Course / Subject | Academic Level | Portal Link | Description |
 | :--- | :--- | :--- | :--- |
-| 📐 **Applied Linear Algebra** | Undergraduate | [Join Classroom](https://classroom.google.com/c/ODkzMzk3NjYxNDA2?cjc=ragozte5) | Practical implementation of vector spaces, matrices, and core AI workloads. |
+|  **Applied Linear Algebra** | Undergraduate | [Join Classroom](https://classroom.google.com/c/ODkzMzk3NjYxNDA2?cjc=ragozte5) | Practical implementation of vector spaces, matrices, and core AI workloads. |
