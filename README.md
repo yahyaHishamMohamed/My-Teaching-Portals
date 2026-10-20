@@ -1,4 +1,4 @@
-### 📚 Teaching Portals & Active Sections
+###  Teaching Portals & Active Sections
 
 Welcome to my academic teaching hub. Below are the active Google Classroom portals and resources for the courses and sections I currently instruct at the Faculty of Engineering, Al-Azhar University.
 
